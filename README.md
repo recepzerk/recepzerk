@@ -26,6 +26,14 @@ How brands gain visibility and recommendations in the AI-driven discovery era.
 
 ---
 
+## Tools
+
+**Digital Wellbeing Score Calculator**
+An interactive self-assessment tool based on the Digital Wellbeing Index framework. Rate yourself across five dimensions and calculate your composite score.
+[Try it here](https://recepzerk.github.io)
+
+---
+
 ## Writing
 
 - [recepzerk.com](https://recepzerk.com)
