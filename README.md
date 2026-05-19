@@ -34,6 +34,13 @@ An interactive self-assessment tool based on the Digital Wellbeing Index framewo
 
 ---
 
+## Press
+
+**Digital Journal** — A New Framework for Measuring Digital Wellbeing Introduced by Recep Zerk
+[Read the coverage](https://www.digitaljournal.com/pr/news/prunderground/new-framework-measuring-digital-wellbeing-1778304213.html)
+
+---
+
 ## Writing
 
 - [recepzerk.com](https://recepzerk.com)
