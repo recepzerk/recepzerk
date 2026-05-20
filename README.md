@@ -32,12 +32,13 @@ How brands gain visibility and recommendations in the AI-driven discovery era.
 An interactive self-assessment tool based on the Digital Wellbeing Index framework. Rate yourself across five dimensions and calculate your composite score.
 [Try it here](https://recepzerk.github.io)
 
----
+**Digital Literacy Quiz**
+Find out if you're a Passenger, Navigator, or Pilot in the digital world. 15 questions across algorithm awareness, social media habits, digital identity, information literacy, and digital boundaries.
+[Try it here](https://recepzerk.github.io/digital-literacy-quiz)
 
-## Press
-
-**Digital Journal** — A New Framework for Measuring Digital Wellbeing Introduced by Recep Zerk
-[Read the coverage](https://www.digitaljournal.com/pr/news/prunderground/new-framework-measuring-digital-wellbeing-1778304213.html)
+**Digital Habits Quiz for Kids Ages 9-12**
+A free and friendly quiz to help kids understand their digital habits around screen time, gaming, YouTube, and online safety.
+[Try it here](https://recepzerk.github.io/digital-habits-quiz-kids)
 
 ---
 
