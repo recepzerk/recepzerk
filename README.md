@@ -42,6 +42,22 @@ A free and friendly quiz to help kids understand their digital habits around scr
 
 ---
 
+## Running Tools
+
+**Pace to Playlist**
+A running playlist generator that matches songs to your pace. Ten tracks per session.
+[Try it here](https://recepzerk.github.io/pace-to-playlist)
+
+**Running Outfit Weather**
+Checks your local weather in real time and tells you exactly what to wear for your run.
+[Try it here](https://recepzerk.github.io/running-outfit-weather)
+
+**Name Your Run**
+Generates a unique name and motivational quote for your run based on the time, city, pace, and day.
+[Try it here](https://recepzerk.github.io/name-your-run)
+
+---
+
 ## Writing
 
 - [recepzerk.com](https://recepzerk.com)
