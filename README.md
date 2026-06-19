@@ -1,8 +1,9 @@
 # Recep Zerk
-
 **Digital Literacy Advocate & Independent Researcher**
 
 I research the intersection of algorithmic systems, online identity, and human agency. My work examines how digital environments shape behavior, self-perception, and wellbeing — and what individuals, educators, and platform designers can do about it.
+
+**ORCID:** [0009-0005-7680-0906](https://orcid.org/0009-0005-7680-0906)
 
 ---
 
@@ -76,3 +77,4 @@ Upload your race GPX and get critical zone alerts based on Minetti's energy cost
 ---
 
 *All research is independently produced and freely available.*
+*Published on [Zenodo](https://zenodo.org/search?q=recep%20zerk) | [ORCID](https://orcid.org/0009-0005-7680-0906)*
